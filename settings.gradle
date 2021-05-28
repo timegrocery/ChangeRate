@@ -1,0 +1,2 @@
+rootProject.name='ChangeRate'
+include ':app', ':jdom-2.0.6'
